@@ -1,0 +1,28 @@
+{
+  "name": "mqtt-express-node-geneva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genevaamaya-rivas2019/mqtt-express-node-geneva.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Geneva Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genevaamaya-rivas2019/mqtt-express-node-geneva/issues"
+  },
+  "homepage": "https://github.com/genevaamaya-rivas2019/mqtt-express-node-geneva#readme",
+  "engines": {
+    "node": "10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
